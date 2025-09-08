@@ -27,6 +27,7 @@
 | **Authentication** | Custom token-based auth |
 | **Weather API** | OpenWeatherMap |
 
+``
 chatgpt-clone/
 │
 ├── 📂 app/                          # Main application directory
@@ -69,7 +70,8 @@ chatgpt-clone/
 ├── 📄 alembic.ini                   # Alembic configuration file
 ├── 📄 README.md                     # Project documentation
 ├── 📄 requirements.txt              # Python dependencies
-└── 📄 streamlit_app.py              # Streamlit frontend application``
+└── 📄 streamlit_app.py              # Streamlit frontend application
+``
 
 ## 🚀 Quick Start
 
