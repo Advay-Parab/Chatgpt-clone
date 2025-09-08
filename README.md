@@ -1,9 +1,12 @@
 # ChatGPT Clone Application
-
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.68+-green.svg)](https://fastapi.tiangolo.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)](https://streamlit.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-blue.svg)](https://www.postgresql.org/)
+[![LangServe](https://img.shields.io/badge/LangServe-0.1+-purple.svg)](https://python.langchain.com/docs/langserve)
+[![OpenAI](https://img.shields.io/badge/OpenAI-API-black.svg)](https://openai.com/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-orange.svg)](https://www.sqlalchemy.org/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black.svg)](https://docs.github.com/en/actions)
 
 A conversational AI application built with modern web technologies, featuring intelligent chat responses and weather information services.
 
