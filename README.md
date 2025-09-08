@@ -27,55 +27,6 @@
 | **Authentication** | Custom token-based auth |
 | **Weather API** | OpenWeatherMap |
 
-``
-
-chatgpt-clone/
-│
-├── 📂 app/                          # Main application directory
-│   ├── 📂 path/                   # API path handlers
-│   │   ├── 📂 __pycache__/          # Python cache files
-│   │   ├── 📄 __init__.py           # Package initializer
-│   │   ├── 📄 chat.py               # Chat-related endpoints
-│   │   └── 📄 users.py              # User authentication endpoints
-│   │
-│   ├── 📂 services/                 # External service integrations
-│   │   ├── 📂 __pycache__/          # Python cache files
-│   │   ├── 📄 __init__.py           # Package initializer
-│   │   ├── 📄 openai_chat.py        # OpenAI API integration
-│   │   └── 📄 weather.py            # Weather API integration
-│   │
-│   ├── 📄 __init__.py               # App package initializer
-│   ├── 📄 auth.py                   # Authentication utilities
-│   ├── 📄 config.py                 # Application configuration
-│   ├── 📄 database.py               # Database connection & setup
-│   ├── 📄 main.py                   # FastAPI application entry point
-│   ├── 📄 models.py                 # SQLAlchemy database models
-│   └── 📄 schemas.py                # Pydantic data models
-│
-├── 📂 langserve_app/                # LangServe integration
-│   └── 📄 serve.py                  # LangServe server configuration
-│
-├── 📂 migrations/                   # Alembic database migrations
-│   ├── 📄 env.py                    # Alembic environment configuration
-│   ├── 📄 script.py.mako           # Migration script template
-│   └── 📄 alembic.ini               # Alembic configuration
-│
-├── 📂 venv/                         # Virtual environment (local)
-│   ├── 📂 bin/                      # Virtual environment binaries
-│   ├── 📂 include/                  # Virtual environment headers
-│   ├── 📂 lib/                      # Virtual environment libraries
-│   └── 📄 pyvenv.cfg               # Virtual environment config
-│
-├── 📄 .env                          # Environment variables (keep secret) (not on repo) (create it.)
-├── 📄 .gitignore                    # Git ignore rules
-├── 📄 alembic.ini                   # Alembic configuration file
-├── 📄 README.md                     # Project documentation
-├── 📄 requirements.txt              # Python dependencies
-└── 📄 streamlit_app.py              # Streamlit frontend application
-
-
-``
-
 ## 🚀 Quick Start
 
 ### Prerequisites
