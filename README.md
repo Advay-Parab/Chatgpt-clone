@@ -169,10 +169,6 @@ To contribute to this project:
 3. Implement changes with tests
 4. Submit pull request with description
 
-## License and Usage
-
-This project is available under the MIT License. See LICENSE file for complete terms and conditions.
-
 ## Support and Contact
 
 For technical support or questions:
