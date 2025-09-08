@@ -7,6 +7,7 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-black.svg)](https://openai.com/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-orange.svg)](https://www.sqlalchemy.org/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black.svg)](https://docs.github.com/en/actions)
+[![OpenWeather](https://img.shields.io/badge/OpenWeather-API-orange.svg)](https://openweathermap.org/api)
 
 A conversational AI application built with modern web technologies, featuring intelligent chat responses and weather information services.
 
