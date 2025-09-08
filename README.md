@@ -64,7 +64,7 @@ pip install -r requirements.txt
 CREATE DATABASE Chatgpt;
 
 -- Optional: Create dedicated user
-CREATE USER pallavi WITH PASSWORD 'yourpassword';
+CREATE USER [your_name] WITH PASSWORD 'yourpassword';
 GRANT ALL PRIVILEGES ON DATABASE Chatgpt TO [your_name];
 ```
 
